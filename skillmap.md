@@ -1,5 +1,5 @@
 # sample
-* name: Game Maker Guide
+* name: Game Maker Guide - Bob
 * description: Level up your game making skills by completing the tutorials in this guide.
 
 ## interface
